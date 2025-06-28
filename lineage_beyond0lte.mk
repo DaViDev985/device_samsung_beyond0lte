@@ -36,8 +36,8 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := lineage_beyond0lte
 PRODUCT_DEVICE := beyond0lte
-PRODUCT_BRAND := samsung
+PRODUCT_BRAND := google
 PRODUCT_MODEL := SM-G970F
-PRODUCT_MANUFACTURER := samsung
+PRODUCT_MANUFACTURER := google
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
